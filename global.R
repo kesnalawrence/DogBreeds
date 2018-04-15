@@ -3,6 +3,7 @@ library(tidyverse)
 library(viridis)
 library(ggrepel)
 library(shinyjs)
+library(shinycssloaders)
 
 appCSS <- "
 #loading-content {

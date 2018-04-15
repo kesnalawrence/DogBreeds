@@ -39,7 +39,7 @@ fluidPage(
 
   fluidRow(width=12,
            column(width = 12,
-                  plotOutput(outputId = "breedQuad")
+                  plotOutput(outputId = "breedQuad") %>% withSpinner()
            )
   )
     
