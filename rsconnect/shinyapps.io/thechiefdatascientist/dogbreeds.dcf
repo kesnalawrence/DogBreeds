@@ -1,0 +1,12 @@
+name: dogbreeds
+title:
+username:
+account: thechiefdatascientist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 322580
+bundleId: 1319625
+url: https://thechiefdatascientist.shinyapps.io/dogbreeds/
+when: 1523810567.69539
+asMultiple: FALSE
+asStatic: FALSE
