@@ -4,6 +4,7 @@ library(viridis)
 library(ggrepel)
 library(shinyjs)
 library(shinycssloaders)
+library(shinyBS)
 
 appCSS <- "
 #loading-content {

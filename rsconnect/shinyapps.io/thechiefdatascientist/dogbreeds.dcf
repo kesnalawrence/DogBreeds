@@ -5,8 +5,8 @@ account: thechiefdatascientist
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 322580
-bundleId: 1319703
+bundleId: 1322510
 url: https://thechiefdatascientist.shinyapps.io/dogbreeds/
-when: 1523816171.7284
+when: 1523931441.15991
 asMultiple: FALSE
 asStatic: FALSE
